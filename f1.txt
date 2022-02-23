@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ashish12
 ashish12345
+=======
+ashish1234
+>>>>>>> ashish
